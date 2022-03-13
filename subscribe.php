@@ -14,8 +14,8 @@
 
 		//Enter name & email address that you want to emails to be sent to.
 		
-		$toName = "Selene";
-		$toAddress = "email@sitename.com";
+		$toName = "shivam";
+		$toAddress = "shivamk8368@gmail.com";
 		
 	///////////////////////////////////////////////////////////////////////////
 	
